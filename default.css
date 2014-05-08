@@ -1,0 +1,27 @@
+body { cursor: default; font: 11px 'Helvetica' }
+body { background: #2d2d2d }
+body { background-color: #1f1f1f; margin-top: 20px }
+body { color: #E2E2E2 }
+
+.main_table { background-color: #313131; border: 1px solid #1f1f1f }
+.main_table td, th { padding: 3px }
+
+
+.coltitle { background: #2d2a2a url(images/coltitle_gray.png) repeat-x top left }
+
+
+.flatrow { background: #444444 }
+.flatrow_alt { background: #444444 }
+.flatrow_dark { background: #444444 }
+
+
+a, .button, .button_small { color: #b7b7b7; text-decoration: none }
+a:hover { color: black }
+
+#goerge { background: #444444 }
+
+.grybrdr { border: 1px solid #8D8D8D }
+
+td { padding: 8px; border: 1px solid black }
+
+.ajaxinc { padding: 0px; margin: 0px }
